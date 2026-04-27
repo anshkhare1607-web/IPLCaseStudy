@@ -17,3 +17,17 @@ batter
 bowler
 batsman_runs
 over
+
+
+
+Task 1: Total Runs per Match
+Objective
+Compute total runs scored in each match
+Input
+match_id
+batsman_runs
+Output Format
+[(match_id, total_runs), ...]
+Constraints
+Do not use dictionaries for aggregation
+Use NumPy masking and aggregation
