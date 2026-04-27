@@ -78,3 +78,16 @@ Output
 Array of size 20 representing average runs per over
 
 
+Task 6: Boundary Analysis
+Objective
+Analyze boundaries in the dataset.
+Tasks
+Count total number of 4s
+Count total number of 6s
+Bonus
+Identify which team has hit the most boundaries
+
+
+
+
+
