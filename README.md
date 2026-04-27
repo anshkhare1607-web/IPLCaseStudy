@@ -115,3 +115,15 @@ match_id
 batting_team
 
 
+
+Task 10: Match Winner Approximation
+Objective
+Determine the winning team for each match based on total runs.
+Steps
+Compute runs scored by both teams
+Compare totals
+Identify the winner
+Output
+(match_id, winner_team)
+
+
