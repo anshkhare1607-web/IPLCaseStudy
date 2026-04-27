@@ -56,3 +56,13 @@ Strike Rate = (Total Runs / Balls Faced) × 100
 Input
 batter
 batsman_runs
+
+
+Task 4: Economy Rate of Bowlers
+Objective
+Calculate economy rate for each bowler.
+Formula
+Economy = Runs Conceded / Overs Bowled
+Note
+Convert balls to overs (balls ÷ 6)
+
