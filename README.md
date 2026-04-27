@@ -127,3 +127,17 @@ Output
 (match_id, winner_team)
 
 
+Task 11: Match Scorecard Generation
+Objective
+Generate a readable scorecard for each match.
+Output Format
+Match 1:
+ Team A: 180 runs
+ Team B: 175 runs
+
+Match 2:
+ Team X: 200 runs
+ Team Y: 198 runs
+
+
+
