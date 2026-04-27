@@ -89,5 +89,12 @@ Identify which team has hit the most boundaries
 
 
 
+Task 7: Death Overs Analysis
+Objective
+Analyze performance in death overs (overs 16–20).
+
+Tasks
+Total runs scored in death overs
+Team with highest runs in death overs
 
 
