@@ -98,3 +98,12 @@ Total runs scored in death overs
 Team with highest runs in death overs
 
 
+
+Task 8: Highest Scoring Match
+Objective
+Find the match with the highest total runs scored.
+Output
+(match_id, total_runs)
+
+
+
