@@ -31,3 +31,16 @@ Output Format
 Constraints
 Do not use dictionaries for aggregation
 Use NumPy masking and aggregation
+
+
+Task 2: Top 5 Batters
+Objective
+Find top 5 batters based on total runs
+Input
+batter
+batsman_runs
+Requirements
+Use np.unique to identify batters
+Use np.argsort for ranking
+Output Format
+[(player_name, total_runs), ...]
