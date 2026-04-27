@@ -66,3 +66,15 @@ Economy = Runs Conceded / Overs Bowled
 Note
 Convert balls to overs (balls ÷ 6)
 
+
+
+Task 5: Runs per Over
+Objective
+Compute average runs scored in each over (1 to 20).
+Input
+over
+batsman_runs
+Output
+Array of size 20 representing average runs per over
+
+
