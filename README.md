@@ -106,4 +106,12 @@ Output
 (match_id, total_runs)
 
 
+Task 9: Runs per Team per Match
+Objective
+Calculate total runs scored by each team in each match.
+Hint
+You may need to combine:
+match_id
+batting_team
+
 
