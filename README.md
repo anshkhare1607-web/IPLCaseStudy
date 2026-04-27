@@ -44,3 +44,15 @@ Use np.unique to identify batters
 Use np.argsort for ranking
 Output Format
 [(player_name, total_runs), ...]
+
+
+
+
+Task 3: Strike Rate of Batters
+Objective
+Calculate strike rate for each batter.
+Formula
+Strike Rate = (Total Runs / Balls Faced) × 100
+Input
+batter
+batsman_runs
